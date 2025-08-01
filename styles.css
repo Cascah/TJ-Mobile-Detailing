@@ -418,7 +418,7 @@ body {
 /* Hero Section with Full Background Image */
 .hero {
   position: relative;
-  background: url('/images/hero-background.jpg') center/cover no-repeat;
+  background: url('images/hero-background.jpg') center/cover no-repeat;
   height: 95vh;
   width: 100%;
   display: flex;
