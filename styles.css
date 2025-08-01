@@ -238,7 +238,7 @@ body {
 
 .services__card {
   background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.8)),
-              url('/images/red\ truck\ tyler.jpg') center/cover no-repeat;
+              url('/images/red truck tyler.jpg') center/cover no-repeat;
   width: 350px;
   height: 450px;
   padding: 2rem;
