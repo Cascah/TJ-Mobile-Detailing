@@ -238,7 +238,7 @@ body {
 
 .services__card {
   background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.8)),
-              url('/images/red truck tyler.JPG') center/cover no-repeat;
+              url('/images/red\ truck\ tyler.jpg') center/cover no-repeat;
   width: 350px;
   height: 450px;
   padding: 2rem;
@@ -274,7 +274,7 @@ body {
 
 .services__card:nth-child(2) {
   background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.8)),
-              url('images/beemer.JPEG') center/cover no-repeat;
+              url('/images/beemer.jpeg') center/cover no-repeat;
 }
 
 /* Footer */
@@ -418,7 +418,7 @@ body {
 /* Hero Section with Full Background Image */
 .hero {
   position: relative;
-  background: url('images/hero-background.jpg') center/cover no-repeat;
+  background: url('/images/hero-background.jpg') center/cover no-repeat;
   height: 95vh;
   width: 100%;
   display: flex;
